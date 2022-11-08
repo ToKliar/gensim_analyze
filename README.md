@@ -59,4 +59,6 @@ Corpus在Gensim中有两种作用
 
 Gensim实现了Word2Vec、LsiModel、LdaModel等模型
 
+## Gensim功能展示
 
+通过[示例代码](./Gensim%E5%8A%9F%E8%83%BD%E5%B1%95%E7%A4%BA.ipynb)展示Gensim中的各种功能和主要涉及到的机器学习模型，加深对于Gensim中核心概念的理解
